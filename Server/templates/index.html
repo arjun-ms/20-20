@@ -1,0 +1,37 @@
+<html>
+
+<head>
+  <title>20-20 | Mammooty-Mohanlal Classifier</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles/style.css') }}" />
+</head>
+
+<body>
+    <div class="header">
+      <img class="logo" src="{{ url_for('static', filename='images/20-20 Logo.png') }}" />
+      <h3>Mammooty Mohanlal</h3>
+    </div>
+   <div class="methods">
+    <div class="uploadform">
+      <form id="form">
+        <label for="fileUpload" class="custom-file-upload">Browse Image..</label>
+        <input type="file" id="fileUpload" name="image" style="display:none;" autocomplete="off" accept="image/*" required />
+        <input type="submit" value="Submit" />
+      </form>
+    </div>
+
+    <div class="uploadzone">
+      <div id="drop_zone" ondrop="dropHandler(event);" ondragover="dragOverHandler(event);">
+        <img class="upload" src="{{ url_for('static', filename='images/upload.png') }}" />
+        <p>Drag One File Here to Upload</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="displayresponse">
+    <p id="result"></p>
+  </div>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+  <script type="text/javascript" src="{{ url_for('static', filename='scripts/index.js') }}"></script>
+</body>
+
+</html>

@@ -1,2 +1,4 @@
 venv
 model/dataset
+venv/
+.vscode/
