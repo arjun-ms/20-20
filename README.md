@@ -1,4 +1,4 @@
-# Mammuka - lalettan classifier
+# Mammuka - Lalettan Classifier
 <small><center>TinkerHub Build from home</center></small>
 
 ## Setup📦
@@ -36,5 +36,5 @@ $ python3 app.py
 ## Build with :love: by
 
 - Arjun MS
-- AJMAL
+- Muhammed Ajmal M
 - DANWAND NS
