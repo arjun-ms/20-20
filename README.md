@@ -4,8 +4,8 @@ A Image classifier that classifies actors mammooty and mohanlal. This model take
 Unfortunately we couldn't host it because there isn't any free services that could host our model because of its large size.
 Now we can test images by using the script we wrote , we can change image path and test any desired image.
 
-Input taken : Image
-Output : Prediction as String
+Input taken : Image <br /> 
+Output : Prediction as String <br /> 
 You can download the [dataset](https://www.kaggle.com/arjunachu/mamooty-mohanlal) from here.
 ## Team members
 1. [Arjun M S](https://github.com/arjun-ms)
@@ -19,11 +19,11 @@ BFH/recxiM4z57LubiX39/2021
 1. Step 1
 2. Step 2
 ## Libraries used
-Open CV - Version
-Tensorflow
-Keras
-Matplotlib
-Numpy
+Open CV - Version <br /> 
+Tensorflow <br /> 
+Keras <br /> 
+Matplotlib <br /> 
+Numpy <br /> 
 ## How to configure
 **1.** Installing pip [Python Package Manager]
 
