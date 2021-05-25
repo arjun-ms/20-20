@@ -3,8 +3,8 @@
 Long Description about project. This project do that. This project is awesome...
 ## Team members
 1. [Arjun M S](https://github.com/arjun-ms)
-2. [Mohammed Ajmal] (Embed perosnal github URL)
-3. [Danwand] (Embed perosnal github URL)
+2. [Muhammed Ajmal M] (https://github.com/ajmalmohad)
+3. [Danwand] (https://github.com/DanBrown47)
 ## Team Id
 BFH/recxiM4z57LubiX39/2021
 ## Link to product walkthrough
