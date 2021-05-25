@@ -54,7 +54,7 @@ $ pip3 install -r requirements.txt
 ```python
 result = model.predict([image('<YOUR_IMAGE_PATH_HERE>')])
 ```
-Set the image path of the image you want to test
+  Set the image path of the image you want to test
 
 **5.** Prediction will be printed below
 
