@@ -1,6 +1,7 @@
 ![BFH Banner](https://trello-attachments.s3.amazonaws.com/542e9c6316504d5797afbfb9/542e9c6316504d5797afbfc1/39dee8d993841943b5723510ce663233/Frame_19.png)
 
 # 20-20
+![20-20](http://en.malayalamemagazine.com/wp-content/uploads/2016/10/mohanlal-mammootty-box-office-800x510.jpg?x66743)
 A Image classifier that classifies actors mammooty and mohanlal. This model takes in images of mammooty or mohanlal and classifies them. It was built by training the model with large amount of cleaned data , which helps to identify between mammooty and mohanlal. The data was scrapped from Google and cleaned using opencv face detection algorithm and was manually checked after that. We used suitable algorithm to produce better results out of the model. The final product can now classify the images , but not with very high accuracy. It has good accuracy and we spend a lot of time to make it to this point where it can perform like this.
 Unfortunately we couldn't host it because there isn't any free services that could host our model because of its large size.
 Now we can test images by using the script we wrote , we can change image path and test any desired image.
