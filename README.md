@@ -5,7 +5,9 @@
 A Image classifier that classifies actors mammooty and mohanlal. This model takes in images of mammooty or mohanlal and classifies them. It was built by training the model with large amount of cleaned data , which helps to identify between mammooty and mohanlal. The data was scrapped from Google and cleaned using opencv face detection algorithm and was manually checked after that. We used suitable algorithm to produce better results out of the model. The final product can now classify the images , but not with very high accuracy. It has good accuracy and we spend a lot of time to make it to this point where it can perform like this.
 Unfortunately we couldn't host it because there isn't any free services that could host our model because of its large size.
 Now we can test images by using the script we wrote , we can change image path and test any desired image.
-
+<br/>
+It was a great learning experience for us. We are newbies to machine learning world, but this project helped us understand some core concepts and workflows on making a model. We learned how to train a model efficiently and how to clean a dataset simply. We learned about main algorithms for training our model. Overall it was a great learning experience.
+<br/>
 Input taken : Image <br /> 
 Output : Prediction as String <br /> 
 You can download the [dataset](https://www.kaggle.com/arjunachu/mamooty-mohanlal) from here.
@@ -20,8 +22,8 @@ BFH/recxiM4z57LubiX39/2021
 [link to video]
 
 ## How it Works ?
-1. Step 1
-2. Step 2
+1. Model was pretrained using datasets of both actors and it was saved.
+2. You can pass a test image to the saved model and it will predict the output.
 
 ## Libraries used
 Open CV - Version <br /> 
@@ -49,18 +51,14 @@ $ git clone https://github.com/arjun-ms/20-20
 $ pip3 install -r requirements.txt
 ```
 
-**4.** Run the server
+**4.** Open prediction.ipynb in Model folder
 
-```shell
-$ cd Server/
-
-$ python3 app.py
+```python
+result = model.predict([image('<YOUR_IMAGE_PATH_HERE>')])
 ```
+set the image path of the image you want to test
 
-**5.** Head to Browser
+**5.** Prediction will be printed below
 
-> http://localhost:YOUR_PORT_HERE/
 
-## How to Run
-Instructions for running
-
+**We couldn't host it because we couldnt find a free service to host, as none of the free services give storage needed for our project**
