@@ -49,18 +49,14 @@ $ git clone https://github.com/arjun-ms/20-20
 $ pip3 install -r requirements.txt
 ```
 
-**4.** Run the server
+**4.** Open prediction.ipynb in Model folder
 
-```shell
-$ cd Server/
-
-$ python3 app.py
+```python
+result = model.predict([image('<YOUR_IMAGE_PATH_HERE>')])
 ```
+Set the image path of the image you want to test
 
-**5.** Head to Browser
+**5.** Prediction will be printed below
 
-> http://localhost:YOUR_PORT_HERE/
 
-## How to Run
-Instructions for running
 
