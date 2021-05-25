@@ -5,9 +5,9 @@
 A Image classifier that classifies actors mammooty and mohanlal. This model takes in images of mammooty or mohanlal and classifies them. It was built by training the model with large amount of cleaned data , which helps to identify between mammooty and mohanlal. The data was scrapped from Google and cleaned using opencv face detection algorithm and was manually checked after that. We used suitable algorithm to produce better results out of the model. The final product can now classify the images , but not with very high accuracy. It has good accuracy and we spend a lot of time to make it to this point where it can perform like this.
 Unfortunately we couldn't host it because there isn't any free services that could host our model because of its large size.
 Now we can test images by using the script we wrote , we can change image path and test any desired image.
-<br/>
+<br><br>
 It was a great learning experience for us. We are newbies to machine learning world, but this project helped us understand some core concepts and workflows on making a model. We learned how to train a model efficiently and how to clean a dataset simply. We learned about main algorithms for training our model. Overall it was a great learning experience.
-<br/>
+<br><br>
 Input taken : Image <br /> 
 Output : Prediction as String <br /> 
 You can download the [dataset](https://www.kaggle.com/arjunachu/mamooty-mohanlal) from here.
