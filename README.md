@@ -26,11 +26,11 @@ BFH/recxiM4z57LubiX39/2021
 2. You can pass a test image to the saved model and it will predict the output.
 
 ## Libraries used
-Open CV - Version <br /> 
-Tensorflow <br /> 
-Keras <br /> 
-Matplotlib <br /> 
-Numpy <br /> 
+opencv-python==4.5.2.52 <br /> 
+tensorflow==2.5.0 <br /> 
+keras==2.4.3 <br /> 
+matplotlib==3.4.1 <br /> 
+numpy==1.19.5 <br /> 
 
 ## How to configure
 **1.** Installing pip [Python Package Manager]
