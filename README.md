@@ -6,6 +6,7 @@ Now we can test images by using the script we wrote , we can change image path a
 
 Input taken : Image
 Output : Prediction as String
+You can download the [dataset](https://www.kaggle.com/arjunachu/mamooty-mohanlal) from here.
 ## Team members
 1. [Arjun M S](https://github.com/arjun-ms)
 2. [Muhammed Ajmal M](https://github.com/ajmalmohad)
