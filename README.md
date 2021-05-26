@@ -51,14 +51,18 @@ $ git clone https://github.com/arjun-ms/20-20
 $ pip3 install -r requirements.txt
 ```
 
-**4.** Open prediction.ipynb in Model folder
+**4.** Open the Server Folder
 
-```python
-result = model.predict([image('<YOUR_IMAGE_PATH_HERE>')])
+**5.** Download Our Model and Paste it in the Sever Folder
+[Download Our Model](https://drive.google.com/drive/folders/1OTLdtsLff9cmXfW9NJ_nOT1_lCuAivhO?usp=sharing)
+
+**6.** Open Terminal and Run the Flask Server
+
+```shell
+$ python app.py
 ```
-set the image path of the image you want to test
-
-**5.** Prediction will be printed below
+**7.** The Server will be running now you can get prediction by uploading Images
 
 
-**We couldn't host it because we couldnt find a free service to host, as none of the free services give storage needed for our project**
+
+Thank You.
