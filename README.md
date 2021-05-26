@@ -19,7 +19,7 @@ You can download the [dataset](https://www.kaggle.com/arjunachu/mamooty-mohanlal
 BFH/recxiM4z57LubiX39/2021
 
 ## Link to product walkthrough
-[link to video](https://www.loom.com/share/75b6c06d59b64d95b7b7dc5cd3669cc3)
+[https://www.loom.com/share/75b6c06d59b64d95b7b7dc5cd3669cc3]
 
 ## How it Works ?
 1. Model was pretrained using datasets of both actors and it was saved.
