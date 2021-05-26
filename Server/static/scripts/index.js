@@ -14,7 +14,8 @@ const uploadFile = (file) => {
   })
     .then(response => response.json())
     .then(data => {
-      res.textContent = data
+      let text = "My best guess is :  "+ data.toUpperCase()
+      res.textContent = text
     })
     .catch(error => {
       console.error(error)
@@ -40,7 +41,7 @@ function dropHandler(ev) {
     }
   }
   else {
-    console.log('Insert Valid File')
+    console.log('Insert a Valid File')
   }
 }
 
