@@ -19,7 +19,7 @@ You can download the [dataset](https://www.kaggle.com/arjunachu/mamooty-mohanlal
 BFH/recxiM4z57LubiX39/2021
 
 ## Link to product walkthrough
-[https://www.loom.com/share/75b6c06d59b64d95b7b7dc5cd3669cc3]
+
 
 ## Hosted Project (Take a Look)
 [http://3.95.25.113:5000/]
