@@ -2,5 +2,6 @@ venv
 model/dataset
 venv/
 .vscode/
-Model/predict.py
 Model/cnn.model
+__pycache__/
+.pytest_cache/

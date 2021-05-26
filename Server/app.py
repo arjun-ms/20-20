@@ -4,14 +4,17 @@ from werkzeug.utils import redirect
 import os
 import predict
 
+
 #Init
 app = Flask(__name__)
 
 #Routes
 
 ###Home
+
 @app.route("/")
 def hello():
+
     return render_template("index.html")
 
 ###Upload
