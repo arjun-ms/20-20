@@ -22,5 +22,4 @@ theano
 scikit-learn
 keras
 opencv-python
-
-
+gunicorn==20.0.4
