@@ -5,3 +5,4 @@ venv/
 Model/cnn.model
 __pycache__/
 .pytest_cache/
+Model/test_images
