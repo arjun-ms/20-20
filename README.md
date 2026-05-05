@@ -17,14 +17,18 @@ Output : Prediction as String <br />
 You can download the [dataset](https://www.kaggle.com/arjunachu/mamooty-mohanlal) from here.
 ## Team members
 1. [Arjun M S](https://github.com/arjun-ms)
+
+
+
+
 2. [Muhammed Ajmal M](https://github.com/ajmalmohad)
 3. [Danwand](https://github.com/DanBrown47)
 ## Team Id
 BFH/recxiM4z57LubiX39/2021
 
 ## Link to product walkthrough
-[<img src="https://img.shields.io/badge/Watch_Demo-Loom-blueviolet?style=for-the-badge&logo=loom" alt="Watch Demo on Loom">](https://www.loom.com/share/75b6c06d59b64d95b7b7dc5cd3669cc3)
 
+https://github.com/user-attachments/assets/95f6dc55-5fce-4661-b5df-8043f32cb359
 
 
 ## How it Works ?
