@@ -23,7 +23,7 @@ You can download the [dataset](https://www.kaggle.com/arjunachu/mamooty-mohanlal
 BFH/recxiM4z57LubiX39/2021
 
 ## Link to product walkthrough
-[![Product Walkthrough](https://cdn.loom.com/sessions/thumbnails/75b6c06d59b64d95b7b7dc5cd3669cc3-with-play.gif)](https://www.loom.com/share/75b6c06d59b64d95b7b7dc5cd3669cc3)
+[<img src="https://img.shields.io/badge/Watch_Demo-Loom-blueviolet?style=for-the-badge&logo=loom" alt="Watch Demo on Loom">](https://www.loom.com/share/75b6c06d59b64d95b7b7dc5cd3669cc3)
 
 
 
