@@ -25,6 +25,7 @@ BFH/recxiM4z57LubiX39/2021
 ## Link to product walkthrough
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/75b6c06d59b64d95b7b7dc5cd3669cc3" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+
 ## How it Works ?
 1. Model was pretrained using datasets of both actors and it was saved.
 2. You can pass a test image to the saved model and it will predict the output.
